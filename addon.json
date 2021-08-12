@@ -1,0 +1,13 @@
+{
+	"title"		:	"atmos",
+	"type"		:	"effects",
+	"tags"		:	[ "scenic", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"addon.txt",
+		"icon.jpg"
+	]
+}
